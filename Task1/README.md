@@ -2,7 +2,7 @@
 
 ## Internship
 
-**iNeuBytes Internship**
+**DecodeLabs Internship**
 
 ## Project Overview
 
@@ -138,4 +138,4 @@ python Task1_CNN/code/cnn_custom.py
 
 **Pragya Rajwanshi**
 
-iNeuBytes Internship Project
+DecodeLabs Internship Project
