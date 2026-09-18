@@ -4,6 +4,7 @@
 
 **Internship:** AI & Machine Learning Internship  
 **Organization:** DecodeLabs
+
 **Intern Name:** Pragya Rajwanshi  
 **Registration Number:** AIA074468
 
