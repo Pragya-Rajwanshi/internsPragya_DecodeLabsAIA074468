@@ -3,9 +3,9 @@
 ## 📌 Internship Project
 
 **Internship:** AI & Machine Learning Internship  
-**Organization:** iNeuBytes  
+**Organization:** DecodeLabs
 **Intern Name:** Pragya Rajwanshi  
-**Registration Number:** INBT020267
+**Registration Number:** AIA074468
 
 
 
@@ -276,9 +276,9 @@ Meerut Institute of Engineering and Technology
 
 # 🏢 Internship
 
-AI Learning Internship
+Technology Internship
 
-iNeuBytes
+DecodeLabs
 
 
 
